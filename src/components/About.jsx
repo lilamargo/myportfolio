@@ -14,13 +14,11 @@ export default function About() {
             I love to build amazing apps. I have discovered interesting
             knowledge in the IT world, from which I love to learn new things and
             be able to apply them professionally.
-            <br />I have experience from other sectors that have helped me
-            enrich my soft skills, such as the world of human resources and the
-            freelancer world, adding value to my work experience. As a
-            freelancer, I have collaborated on different projects as a SCRUM
-            Master in an IT consultancy, in addition to contributing to the
-            recruitment of specialized IT profiles that helped me fuel interest
-            in my career as a Full Stack Developer.
+            <br />I have collaborated on remote projects as a freelancer for
+            startups in the USA and in organizations in Mexico. I am a person
+            who likes to work with creative teams that allow me to contribute
+            ideas and strengthen the bonds of teamwork. My goal is to build my
+            experience in managing IT projects.
           </p>
           <div className="flex justify-center">
             <a
